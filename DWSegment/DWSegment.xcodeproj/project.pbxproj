@@ -15,6 +15,15 @@
 		88CDFD191FFCC9AA00C9FD4C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD181FFCC9AA00C9FD4C /* main.m */; };
 		88CDFD231FFCC9AA00C9FD4C /* DWSegmentTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD221FFCC9AA00C9FD4C /* DWSegmentTests.m */; };
 		88CDFD2E1FFCC9AA00C9FD4C /* DWSegmentUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD2D1FFCC9AA00C9FD4C /* DWSegmentUITests.m */; };
+		88CDFD461FFCD5CB00C9FD4C /* NBLScrollTabController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD3D1FFCD5CB00C9FD4C /* NBLScrollTabController.m */; };
+		88CDFD471FFCD5CB00C9FD4C /* NBLScrollTabItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD3F1FFCD5CB00C9FD4C /* NBLScrollTabItem.m */; };
+		88CDFD481FFCD5CB00C9FD4C /* NBLScrollTabItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD411FFCD5CB00C9FD4C /* NBLScrollTabItemView.m */; };
+		88CDFD491FFCD5CB00C9FD4C /* NBLScrollTabTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD431FFCD5CB00C9FD4C /* NBLScrollTabTheme.m */; };
+		88CDFD4A1FFCD5CB00C9FD4C /* NBLScrollTabView.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD451FFCD5CB00C9FD4C /* NBLScrollTabView.m */; };
+		88CDFD531FFCD5DA00C9FD4C /* DemoViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD4B1FFCD5DA00C9FD4C /* DemoViewController3.m */; };
+		88CDFD541FFCD5DA00C9FD4C /* DemoViewController0.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD4D1FFCD5DA00C9FD4C /* DemoViewController0.m */; };
+		88CDFD551FFCD5DA00C9FD4C /* DemoViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD4E1FFCD5DA00C9FD4C /* DemoViewController1.m */; };
+		88CDFD561FFCD5DA00C9FD4C /* DemoViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 88CDFD4F1FFCD5DA00C9FD4C /* DemoViewController2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +60,24 @@
 		88CDFD291FFCC9AA00C9FD4C /* DWSegmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DWSegmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88CDFD2D1FFCC9AA00C9FD4C /* DWSegmentUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWSegmentUITests.m; sourceTree = "<group>"; };
 		88CDFD2F1FFCC9AA00C9FD4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88CDFD3C1FFCD5CB00C9FD4C /* NBLScrollTabController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBLScrollTabController.h; sourceTree = "<group>"; };
+		88CDFD3D1FFCD5CB00C9FD4C /* NBLScrollTabController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBLScrollTabController.m; sourceTree = "<group>"; };
+		88CDFD3E1FFCD5CB00C9FD4C /* NBLScrollTabItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBLScrollTabItem.h; sourceTree = "<group>"; };
+		88CDFD3F1FFCD5CB00C9FD4C /* NBLScrollTabItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBLScrollTabItem.m; sourceTree = "<group>"; };
+		88CDFD401FFCD5CB00C9FD4C /* NBLScrollTabItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBLScrollTabItemView.h; sourceTree = "<group>"; };
+		88CDFD411FFCD5CB00C9FD4C /* NBLScrollTabItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBLScrollTabItemView.m; sourceTree = "<group>"; };
+		88CDFD421FFCD5CB00C9FD4C /* NBLScrollTabTheme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBLScrollTabTheme.h; sourceTree = "<group>"; };
+		88CDFD431FFCD5CB00C9FD4C /* NBLScrollTabTheme.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBLScrollTabTheme.m; sourceTree = "<group>"; };
+		88CDFD441FFCD5CB00C9FD4C /* NBLScrollTabView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBLScrollTabView.h; sourceTree = "<group>"; };
+		88CDFD451FFCD5CB00C9FD4C /* NBLScrollTabView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBLScrollTabView.m; sourceTree = "<group>"; };
+		88CDFD4B1FFCD5DA00C9FD4C /* DemoViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoViewController3.m; sourceTree = "<group>"; };
+		88CDFD4C1FFCD5DA00C9FD4C /* DemoViewController1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoViewController1.h; sourceTree = "<group>"; };
+		88CDFD4D1FFCD5DA00C9FD4C /* DemoViewController0.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoViewController0.m; sourceTree = "<group>"; };
+		88CDFD4E1FFCD5DA00C9FD4C /* DemoViewController1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoViewController1.m; sourceTree = "<group>"; };
+		88CDFD4F1FFCD5DA00C9FD4C /* DemoViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoViewController2.m; sourceTree = "<group>"; };
+		88CDFD501FFCD5DA00C9FD4C /* DemoViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoViewController2.h; sourceTree = "<group>"; };
+		88CDFD511FFCD5DA00C9FD4C /* DemoViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoViewController3.h; sourceTree = "<group>"; };
+		88CDFD521FFCD5DA00C9FD4C /* DemoViewController0.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoViewController0.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +128,19 @@
 		88CDFD081FFCC9AA00C9FD4C /* DWSegment */ = {
 			isa = PBXGroup;
 			children = (
+				88CDFD3B1FFCD5CB00C9FD4C /* NBLScrollTab */,
 				88CDFD091FFCC9AA00C9FD4C /* AppDelegate.h */,
 				88CDFD0A1FFCC9AA00C9FD4C /* AppDelegate.m */,
 				88CDFD0C1FFCC9AA00C9FD4C /* ViewController.h */,
 				88CDFD0D1FFCC9AA00C9FD4C /* ViewController.m */,
+				88CDFD521FFCD5DA00C9FD4C /* DemoViewController0.h */,
+				88CDFD4D1FFCD5DA00C9FD4C /* DemoViewController0.m */,
+				88CDFD4C1FFCD5DA00C9FD4C /* DemoViewController1.h */,
+				88CDFD4E1FFCD5DA00C9FD4C /* DemoViewController1.m */,
+				88CDFD501FFCD5DA00C9FD4C /* DemoViewController2.h */,
+				88CDFD4F1FFCD5DA00C9FD4C /* DemoViewController2.m */,
+				88CDFD511FFCD5DA00C9FD4C /* DemoViewController3.h */,
+				88CDFD4B1FFCD5DA00C9FD4C /* DemoViewController3.m */,
 				88CDFD0F1FFCC9AA00C9FD4C /* Main.storyboard */,
 				88CDFD121FFCC9AA00C9FD4C /* Assets.xcassets */,
 				88CDFD141FFCC9AA00C9FD4C /* LaunchScreen.storyboard */,
@@ -130,6 +166,23 @@
 				88CDFD2F1FFCC9AA00C9FD4C /* Info.plist */,
 			);
 			path = DWSegmentUITests;
+			sourceTree = "<group>";
+		};
+		88CDFD3B1FFCD5CB00C9FD4C /* NBLScrollTab */ = {
+			isa = PBXGroup;
+			children = (
+				88CDFD3C1FFCD5CB00C9FD4C /* NBLScrollTabController.h */,
+				88CDFD3D1FFCD5CB00C9FD4C /* NBLScrollTabController.m */,
+				88CDFD3E1FFCD5CB00C9FD4C /* NBLScrollTabItem.h */,
+				88CDFD3F1FFCD5CB00C9FD4C /* NBLScrollTabItem.m */,
+				88CDFD401FFCD5CB00C9FD4C /* NBLScrollTabItemView.h */,
+				88CDFD411FFCD5CB00C9FD4C /* NBLScrollTabItemView.m */,
+				88CDFD421FFCD5CB00C9FD4C /* NBLScrollTabTheme.h */,
+				88CDFD431FFCD5CB00C9FD4C /* NBLScrollTabTheme.m */,
+				88CDFD441FFCD5CB00C9FD4C /* NBLScrollTabView.h */,
+				88CDFD451FFCD5CB00C9FD4C /* NBLScrollTabView.m */,
+			);
+			path = NBLScrollTab;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -265,9 +318,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88CDFD551FFCD5DA00C9FD4C /* DemoViewController1.m in Sources */,
 				88CDFD0E1FFCC9AA00C9FD4C /* ViewController.m in Sources */,
+				88CDFD461FFCD5CB00C9FD4C /* NBLScrollTabController.m in Sources */,
+				88CDFD541FFCD5DA00C9FD4C /* DemoViewController0.m in Sources */,
+				88CDFD4A1FFCD5CB00C9FD4C /* NBLScrollTabView.m in Sources */,
+				88CDFD471FFCD5CB00C9FD4C /* NBLScrollTabItem.m in Sources */,
+				88CDFD491FFCD5CB00C9FD4C /* NBLScrollTabTheme.m in Sources */,
 				88CDFD191FFCC9AA00C9FD4C /* main.m in Sources */,
 				88CDFD0B1FFCC9AA00C9FD4C /* AppDelegate.m in Sources */,
+				88CDFD531FFCD5DA00C9FD4C /* DemoViewController3.m in Sources */,
+				88CDFD561FFCD5DA00C9FD4C /* DemoViewController2.m in Sources */,
+				88CDFD481FFCD5CB00C9FD4C /* NBLScrollTabItemView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
